@@ -1,16 +1,32 @@
-## Hi there 👋
+# Dr. Priyanshi
 
-<!--
-**Priy-anshi/Priy-anshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there! 👋 I'm Dr. Priyanshi, a medical student currently undergoing my internship at Government Medical College, Ratlam, India. I am a Harvard Crossroads Emerging Leader's Program finalist with a passion for combining medicine and coding. 💉💻
 
-Here are some ideas to get you started:
+## Interests
+- 🩺 Medicine
+- 💻 Coding
+- 📊 Data Science in Medicine
+- 🌱 Continuous Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Philosophers Who Code](https://github.com/PhilosophersWhoCode):** An initiative to help humanities students with data science skills. [LinkedIn](https://www.linkedin.com/company/philosopherswhocode-org/?viewAsMember=true)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dr-priyanshi-dubey-378596195/)
+
+## Education
+- Government Medical College, Ratlam, India
+
+## Skills
+- Python
+- R
+- Data Analysis
+- Machine Learning
+- Medical Research
+
+## Goals
+- Integrate coding and data science in medical research.
+- Develop tools to improve healthcare through technology.
+
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/dr-priyanshi-dubey-378596195/) if you have any questions or collaboration ideas!
