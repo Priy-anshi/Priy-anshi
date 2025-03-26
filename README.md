@@ -1,7 +1,7 @@
 # Dr. Priyanshi
 
 ## About Me
-Hi there! 👋 I'm Dr. Priyanshi, a medical student currently undergoing my internship at Government Medical College, Ratlam, India. I am a Harvard Crossroads Emerging Leader's Program finalist with a passion for combining medicine and coding. 💉💻
+Hi there! 👋 I'm Dr. Priyanshi, a medical practitioner at Government Medical College, Ratlam, India. I am a Harvard Crossroads Emerging Leader's Program finalist with a passion for combining medicine and coding. 💉💻
 
 ## Interests
 - 🩺 Medicine
